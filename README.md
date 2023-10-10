@@ -50,3 +50,14 @@ Hello Mojo 🔥!
 6
 3
 ```
+
+Create a stand-alone executable with the build command:
+```bash
+mojo build hello.🔥
+```
+
+Then run the executable:
+```bash
+./hello
+```
+
